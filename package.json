@@ -1,25 +1,25 @@
 {
-    "name": "expo-voip-plugin",
-    "version": "1.0.8",
-    "description": "Expo VoIP Push Notifications Plugin for iOS",
-    "main": "app.config.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "maoryadin",
-    "license": "MIT",
-    "keywords": [
-      "expo",
-      "expo-plugin",
-      "voip",
-      "push",
-      "notifications",
-      "react-native",
-      "background mode",
-      "iOS",
-      "communication",
-      "voice over IP",
-      "Expo config",
-      "config-plugins"
-    ]
-  }
+  "name": "expo-voip-plugin",
+  "version": "1.0.9",
+  "description": "Expo VoIP Push Notifications Plugin for iOS",
+  "main": "app.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maoryadin",
+  "license": "MIT",
+  "keywords": [
+    "expo",
+    "expo-plugin",
+    "voip",
+    "push",
+    "notifications",
+    "react-native",
+    "background mode",
+    "iOS",
+    "communication",
+    "voice over IP",
+    "Expo config",
+    "config-plugins"
+  ]
+}
