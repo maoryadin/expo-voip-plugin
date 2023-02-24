@@ -1,4 +1,4 @@
-# expo-custom-voip-plugin
+# expo-voip-plugin
 
 ## Introduction
 This is an Expo plugin that adds the 'voip' background mode to your iOS project. It's useful if you need to use VoIP (Voice over IP) functionality in your app.
@@ -7,7 +7,7 @@ This is an Expo plugin that adds the 'voip' background mode to your iOS project.
 You can install this plugin by running the following command in your Expo project:
 
 ```bash
-npm install expo-custom-voip-plugin
+npm install expo-voip-plugin
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ To use this plugin, add it to the `plugins` property in your `app.json` or `app.
 {
   "expo": {
     "plugins": [
-      "expo-custom-voip-plugin"
+      "expo-voip-plugin"
     ]
   }
 }
