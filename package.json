@@ -1,6 +1,6 @@
 {
   "name": "expo-voip-plugin",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Expo VoIP Push Notifications Plugin for iOS",
   "main": "app.config.js",
   "scripts": {
