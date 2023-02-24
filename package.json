@@ -8,6 +8,10 @@
   },
   "author": "maoryadin",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maoryadin/expo-voip-plugin.git"
+  },
   "keywords": [
     "expo",
     "expo-plugin",
